@@ -7,8 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Ajit-maker413/Ajit768/tree/master/0260-single-number-iii) |
+| [1288-remove-covered-intervals](https://github.com/Ajit-maker413/Ajit768/tree/master/1288-remove-covered-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Ajit-maker413/Ajit768/tree/master/0260-single-number-iii) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/Ajit-maker413/Ajit768/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
