@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ajit-maker413/Ajit768/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Ajit-maker413/Ajit768/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ajit-maker413/Ajit768/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
