@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ajit-maker413/Ajit768/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/1512-number-of-good-pairs) |
 | [1829-maximum-xor-for-each-query](https://github.com/Ajit-maker413/Ajit768/tree/master/1829-maximum-xor-for-each-query) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ajit-maker413/Ajit768/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Ajit-maker413/Ajit768/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1331-rank-transform-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/1512-number-of-good-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
