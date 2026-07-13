@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Ajit-maker413/Ajit768/tree/master/0319-bulb-switcher) |
+| [0509-fibonacci-number](https://github.com/Ajit-maker413/Ajit768/tree/master/0509-fibonacci-number) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ajit-maker413/Ajit768/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/1512-number-of-good-pairs) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Ajit-maker413/Ajit768/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Ajit-maker413/Ajit768/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Ajit-maker413/Ajit768/tree/master/0509-fibonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ajit-maker413/Ajit768/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ajit-maker413/Ajit768/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ajit-maker413/Ajit768/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
