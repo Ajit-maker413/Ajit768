@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ajit-maker413/Ajit768/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Ajit-maker413/Ajit768/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ajit-maker413/Ajit768/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ajit-maker413/Ajit768/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajit-maker413/Ajit768/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/0647-palindromic-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ajit-maker413/Ajit768/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -131,4 +135,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ajit-maker413/Ajit768/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
