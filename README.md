@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ajit-maker413/Ajit768/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/1512-number-of-good-pairs) |
 | [1829-maximum-xor-for-each-query](https://github.com/Ajit-maker413/Ajit768/tree/master/1829-maximum-xor-for-each-query) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ajit-maker413/Ajit768/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ajit-maker413/Ajit768/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ajit-maker413/Ajit768/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/1512-number-of-good-pairs) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Ajit-maker413/Ajit768/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ajit-maker413/Ajit768/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ajit-maker413/Ajit768/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ajit-maker413/Ajit768/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
