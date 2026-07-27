@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ajit-maker413/Ajit768/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0219-contains-duplicate-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1331-rank-transform-of-an-array) |
@@ -89,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ajit-maker413/Ajit768/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0219-contains-duplicate-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/1248-count-number-of-nice-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ajit-maker413/Ajit768/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0647-palindromic-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/0647-palindromic-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/1781-sum-of-beauty-of-all-substrings) |
