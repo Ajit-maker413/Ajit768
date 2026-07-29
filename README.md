@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajit-maker413/Ajit768/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0394-decode-string](https://github.com/Ajit-maker413/Ajit768/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/0647-palindromic-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Ajit-maker413/Ajit768/tree/master/0394-decode-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ajit-maker413/Ajit768/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ajit-maker413/Ajit768/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/Ajit-maker413/Ajit768/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Ajit-maker413/Ajit768/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
