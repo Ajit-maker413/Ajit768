@@ -14,16 +14,11 @@ public:
            }
         }
         vector<int>freq;
-        vector<char>letter;
         for( auto it:om)
         {
-            letter.push_back(it.first);
             freq.push_back(it.second);
         }        
-        for(int i=0;i<freq.size();i++)
-        {
-            cout<<freq[i];
-        }
+
         sort(freq.begin(),freq.end());
         reverse(freq.begin(),freq.end());
         cout<<endl;
