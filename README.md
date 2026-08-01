@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Ajit-maker413/Ajit768/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ajit-maker413/Ajit768/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Ajit-maker413/Ajit768/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Ajit-maker413/Ajit768/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ajit-maker413/Ajit768/tree/master/3536-maximum-product-of-two-digits) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Ajit-maker413/Ajit768/tree/master/0763-partition-labels) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ajit-maker413/Ajit768/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/Ajit-maker413/Ajit768/tree/master/2109-adding-spaces-to-a-string) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Ajit-maker413/Ajit768/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Ajit-maker413/Ajit768/tree/master/0763-partition-labels) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ajit-maker413/Ajit768/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2405-optimal-partition-of-string](https://github.com/Ajit-maker413/Ajit768/tree/master/2405-optimal-partition-of-string) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Ajit-maker413/Ajit768/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
