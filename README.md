@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Ajit-maker413/Ajit768/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Ajit-maker413/Ajit768/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ajit-maker413/Ajit768/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1023-camelcase-matching](https://github.com/Ajit-maker413/Ajit768/tree/master/1023-camelcase-matching) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Ajit-maker413/Ajit768/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ajit-maker413/Ajit768/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Ajit-maker413/Ajit768/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Ajit-maker413/Ajit768/tree/master/0763-partition-labels) |
+| [1023-camelcase-matching](https://github.com/Ajit-maker413/Ajit768/tree/master/1023-camelcase-matching) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1754-largest-merge-of-two-strings](https://github.com/Ajit-maker413/Ajit768/tree/master/1754-largest-merge-of-two-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajit-maker413/Ajit768/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Ajit-maker413/Ajit768/tree/master/0763-partition-labels) |
+| [1023-camelcase-matching](https://github.com/Ajit-maker413/Ajit768/tree/master/1023-camelcase-matching) |
 | [1754-largest-merge-of-two-strings](https://github.com/Ajit-maker413/Ajit768/tree/master/1754-largest-merge-of-two-strings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ajit-maker413/Ajit768/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/Ajit-maker413/Ajit768/tree/master/2109-adding-spaces-to-a-string) |
@@ -232,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Ajit-maker413/Ajit768/tree/master/0877-stone-game) |
+## Trie
+|  |
+| ------- |
+| [1023-camelcase-matching](https://github.com/Ajit-maker413/Ajit768/tree/master/1023-camelcase-matching) |
+## String Matching
+|  |
+| ------- |
+| [1023-camelcase-matching](https://github.com/Ajit-maker413/Ajit768/tree/master/1023-camelcase-matching) |
 <!---LeetCode Topics End-->
