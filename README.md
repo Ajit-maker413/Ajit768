@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Ajit-maker413/Ajit768/tree/master/0260-single-number-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ajit-maker413/Ajit768/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ajit-maker413/Ajit768/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ajit-maker413/Ajit768/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1829-maximum-xor-for-each-query](https://github.com/Ajit-maker413/Ajit768/tree/master/1829-maximum-xor-for-each-query) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ajit-maker413/Ajit768/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ajit-maker413/Ajit768/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ajit-maker413/Ajit768/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ajit-maker413/Ajit768/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1829-maximum-xor-for-each-query](https://github.com/Ajit-maker413/Ajit768/tree/master/1829-maximum-xor-for-each-query) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Ajit-maker413/Ajit768/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1331-rank-transform-of-an-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ajit-maker413/Ajit768/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/1512-number-of-good-pairs) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ajit-maker413/Ajit768/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2405-optimal-partition-of-string](https://github.com/Ajit-maker413/Ajit768/tree/master/2405-optimal-partition-of-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Ajit-maker413/Ajit768/tree/master/0763-partition-labels) |
 | [1023-camelcase-matching](https://github.com/Ajit-maker413/Ajit768/tree/master/1023-camelcase-matching) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ajit-maker413/Ajit768/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1754-largest-merge-of-two-strings](https://github.com/Ajit-maker413/Ajit768/tree/master/1754-largest-merge-of-two-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ajit-maker413/Ajit768/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Ajit-maker413/Ajit768/tree/master/0877-stone-game) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Ajit-maker413/Ajit768/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Brainteaser
 |  |
 | ------- |
