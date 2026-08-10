@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ajit-maker413/Ajit768/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Ajit-maker413/Ajit768/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2592-maximize-greatness-of-an-array) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3731-find-missing-elements](https://github.com/Ajit-maker413/Ajit768/tree/master/3731-find-missing-elements) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/Ajit-maker413/Ajit768/tree/master/1829-maximum-xor-for-each-query) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Ajit-maker413/Ajit768/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Ajit-maker413/Ajit768/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Math
