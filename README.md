@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Ajit-maker413/Ajit768/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ajit-maker413/Ajit768/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1652-defuse-the-bomb](https://github.com/Ajit-maker413/Ajit768/tree/master/1652-defuse-the-bomb) |
 | [1829-maximum-xor-for-each-query](https://github.com/Ajit-maker413/Ajit768/tree/master/1829-maximum-xor-for-each-query) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ajit-maker413/Ajit768/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajit-maker413/Ajit768/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0219-contains-duplicate-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/1248-count-number-of-nice-subarrays) |
+| [1652-defuse-the-bomb](https://github.com/Ajit-maker413/Ajit768/tree/master/1652-defuse-the-bomb) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajit-maker413/Ajit768/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
