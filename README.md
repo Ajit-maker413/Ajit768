@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/Ajit-maker413/Ajit768/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/Ajit-maker413/Ajit768/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Ajit-maker413/Ajit768/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Ajit-maker413/Ajit768/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Ajit-maker413/Ajit768/tree/master/0904-fruit-into-baskets) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/Ajit-maker413/Ajit768/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ajit-maker413/Ajit768/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ajit-maker413/Ajit768/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
