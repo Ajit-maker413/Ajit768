@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ajit-maker413/Ajit768/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajit-maker413/Ajit768/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Ajit-maker413/Ajit768/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/Ajit-maker413/Ajit768/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0410-split-array-largest-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ajit-maker413/Ajit768/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Ajit-maker413/Ajit768/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Ajit-maker413/Ajit768/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/Ajit-maker413/Ajit768/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ajit-maker413/Ajit768/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajit-maker413/Ajit768/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajit-maker413/Ajit768/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Ajit-maker413/Ajit768/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Ajit-maker413/Ajit768/tree/master/0763-partition-labels) |
 | [1023-camelcase-matching](https://github.com/Ajit-maker413/Ajit768/tree/master/1023-camelcase-matching) |
