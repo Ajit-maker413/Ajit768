@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajit-maker413/Ajit768/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Ajit-maker413/Ajit768/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ajit-maker413/Ajit768/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Matrix
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Ajit-maker413/Ajit768/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Ajit-maker413/Ajit768/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Ajit-maker413/Ajit768/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
