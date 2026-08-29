@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ajit-maker413/Ajit768/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajit-maker413/Ajit768/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/Ajit-maker413/Ajit768/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ajit-maker413/Ajit768/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajit-maker413/Ajit768/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajit-maker413/Ajit768/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Ajit-maker413/Ajit768/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0219-contains-duplicate-ii) |
 | [0763-partition-labels](https://github.com/Ajit-maker413/Ajit768/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Ajit-maker413/Ajit768/tree/master/0904-fruit-into-baskets) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ajit-maker413/Ajit768/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Ajit-maker413/Ajit768/tree/master/1260-shift-2d-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ajit-maker413/Ajit768/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Ajit-maker413/Ajit768/tree/master/2428-maximum-sum-of-an-hourglass) |
