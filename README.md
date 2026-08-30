@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Ajit-maker413/Ajit768/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ajit-maker413/Ajit768/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Ajit-maker413/Ajit768/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ajit-maker413/Ajit768/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2592-maximize-greatness-of-an-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ajit-maker413/Ajit768/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2405-optimal-partition-of-string](https://github.com/Ajit-maker413/Ajit768/tree/master/2405-optimal-partition-of-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ajit-maker413/Ajit768/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajit-maker413/Ajit768/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ajit-maker413/Ajit768/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/1248-count-number-of-nice-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/Ajit-maker413/Ajit768/tree/master/1652-defuse-the-bomb) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ajit-maker413/Ajit768/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ajit-maker413/Ajit768/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajit-maker413/Ajit768/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
