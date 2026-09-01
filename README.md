@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Ajit-maker413/Ajit768/tree/master/1441-build-an-array-with-stack-operations) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ajit-maker413/Ajit768/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ajit-maker413/Ajit768/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Ajit-maker413/Ajit768/tree/master/1539-kth-missing-positive-number) |
