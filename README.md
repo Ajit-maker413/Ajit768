@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ajit-maker413/Ajit768/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ajit-maker413/Ajit768/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Ajit-maker413/Ajit768/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ajit-maker413/Ajit768/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Ajit-maker413/Ajit768/tree/master/0875-koko-eating-bananas) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Ajit-maker413/Ajit768/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ajit-maker413/Ajit768/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/1248-count-number-of-nice-subarrays) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ajit-maker413/Ajit768/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Ajit-maker413/Ajit768/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/Ajit-maker413/Ajit768/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ajit-maker413/Ajit768/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Ajit-maker413/Ajit768/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/1248-count-number-of-nice-subarrays) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajit-maker413/Ajit768/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Ajit-maker413/Ajit768/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0219-contains-duplicate-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0523-continuous-subarray-sum) |
 | [0763-partition-labels](https://github.com/Ajit-maker413/Ajit768/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Ajit-maker413/Ajit768/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/1248-count-number-of-nice-subarrays) |
@@ -383,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/2063-vowels-of-all-substrings) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
