@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ajit-maker413/Ajit768/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajit-maker413/Ajit768/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Ajit-maker413/Ajit768/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ajit-maker413/Ajit768/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Ajit-maker413/Ajit768/tree/master/0118-pascals-triangle) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0047-permutations-ii) |
 | [1288-remove-covered-intervals](https://github.com/Ajit-maker413/Ajit768/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ajit-maker413/Ajit768/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Ajit-maker413/Ajit768/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0047-permutations-ii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ajit-maker413/Ajit768/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
