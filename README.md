@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ajit-maker413/Ajit768/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Ajit-maker413/Ajit768/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/Ajit-maker413/Ajit768/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ajit-maker413/Ajit768/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ajit-maker413/Ajit768/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0209-minimum-size-subarray-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0047-permutations-ii) |
+| [0164-maximum-gap](https://github.com/Ajit-maker413/Ajit768/tree/master/0164-maximum-gap) |
 | [1288-remove-covered-intervals](https://github.com/Ajit-maker413/Ajit768/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ajit-maker413/Ajit768/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Ajit-maker413/Ajit768/tree/master/0164-maximum-gap) |
 | [0523-continuous-subarray-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0523-continuous-subarray-sum) |
 ## Monotonic Stack
 |  |
@@ -459,4 +462,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ajit-maker413/Ajit768/tree/master/0836-rectangle-overlap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Ajit-maker413/Ajit768/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Ajit-maker413/Ajit768/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
