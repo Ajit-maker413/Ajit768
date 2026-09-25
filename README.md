@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ajit-maker413/Ajit768/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0523-continuous-subarray-sum) |
+| [0682-baseball-game](https://github.com/Ajit-maker413/Ajit768/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Ajit-maker413/Ajit768/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ajit-maker413/Ajit768/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Ajit-maker413/Ajit768/tree/master/0875-koko-eating-bananas) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ajit-maker413/Ajit768/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Ajit-maker413/Ajit768/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/Ajit-maker413/Ajit768/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ajit-maker413/Ajit768/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ajit-maker413/Ajit768/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ajit-maker413/Ajit768/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ajit-maker413/Ajit768/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/Ajit-maker413/Ajit768/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Ajit-maker413/Ajit768/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ajit-maker413/Ajit768/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1929-concatenation-of-array) |
