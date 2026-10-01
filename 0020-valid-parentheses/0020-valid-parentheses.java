@@ -1,41 +1,63 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> st = new Stack();
-        int i = 0;
-        while (i < s.length())
-         {
-            char ch = s.charAt(i);
-            if (ch == '(' || ch == '[' || ch == '{') 
+        Stack<Character>st=new Stack();
+        for(int i=0;i<s.length();i++)
+        {
+            char ch=s.charAt(i);
+            if(ch==')' )
             {
-                st.push(ch);
-            } 
-            else
-             {
-                if (!st.empty())
-                 {
-                    char top = st.peek();
-                    if ((ch == ')' && top != '(') || (ch == ']' && top != '[') || ch == '}' && top != '{')
-                     {
-                        return false;
-                     } 
-                    else 
-                    {
-                        st.pop();
-                    }
-
-                }else
+                if(st.empty())
                 {
                     return false;
                 }
-
-
+                if(st.peek() == '(' )
+                {
+                    st.pop();
+                }
+                else
+                {
+                    return false;
+                }
             }
-            i++;
-        }
-        if (st.empty() ) {
-            return true;
-        }
-        return false;
+            else if(ch==']')
+            {
+                if(st.empty())
+                {
+                    return false;
+                }
+                if(st.peek() == '[')
+                {
+                    st.pop();
+                }
+                else{
+                   return false;
+                }
+            }
+            else if(ch =='}')
+            {
+                if(st.empty())
+                {
+                    return false;
+                }
+                if(st.peek()=='{')
+                {
+                    st.pop();
+                }
+                else
+                {
+                    return false;
 
+                }
+            }
+            else
+            {
+                st.push(ch);
+            }
+        }
+        if(!st.empty()){
+            return false;
+        }
+        return true;
+        
     }
 }
