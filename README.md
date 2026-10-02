@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajit-maker413/Ajit768/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ajit-maker413/Ajit768/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Ajit-maker413/Ajit768/tree/master/0067-add-binary) |
 | [0394-decode-string](https://github.com/Ajit-maker413/Ajit768/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/0647-palindromic-substrings) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Ajit-maker413/Ajit768/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ajit-maker413/Ajit768/tree/master/0152-maximum-product-subarray) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Ajit-maker413/Ajit768/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0047-permutations-ii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ajit-maker413/Ajit768/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ajit-maker413/Ajit768/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ajit-maker413/Ajit768/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
