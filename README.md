@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajit-maker413/Ajit768/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Ajit-maker413/Ajit768/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0047-permutations-ii) |
+| [0066-plus-one](https://github.com/Ajit-maker413/Ajit768/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Ajit-maker413/Ajit768/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Ajit-maker413/Ajit768/tree/master/0118-pascals-triangle) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ajit-maker413/Ajit768/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Ajit-maker413/Ajit768/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ajit-maker413/Ajit768/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ajit-maker413/Ajit768/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ajit-maker413/Ajit768/tree/master/0189-rotate-array) |
