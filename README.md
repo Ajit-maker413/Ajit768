@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Ajit-maker413/Ajit768/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ajit-maker413/Ajit768/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/1021-remove-outermost-parentheses) |
 | [1023-camelcase-matching](https://github.com/Ajit-maker413/Ajit768/tree/master/1023-camelcase-matching) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ajit-maker413/Ajit768/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Ajit-maker413/Ajit768/tree/master/1143-longest-common-subsequence) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Ajit-maker413/Ajit768/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ajit-maker413/Ajit768/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ajit-maker413/Ajit768/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ajit-maker413/Ajit768/tree/master/1441-build-an-array-with-stack-operations) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ajit-maker413/Ajit768/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ajit-maker413/Ajit768/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ajit-maker413/Ajit768/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
