@@ -494,16 +494,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0112-path-sum) |
+| [0965-univalued-binary-tree](https://github.com/Ajit-maker413/Ajit768/tree/master/0965-univalued-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ajit-maker413/Ajit768/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0112-path-sum) |
+| [0965-univalued-binary-tree](https://github.com/Ajit-maker413/Ajit768/tree/master/0965-univalued-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ajit-maker413/Ajit768/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0112-path-sum) |
+| [0965-univalued-binary-tree](https://github.com/Ajit-maker413/Ajit768/tree/master/0965-univalued-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ajit-maker413/Ajit768/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -525,4 +528,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0112-path-sum) |
+| [0965-univalued-binary-tree](https://github.com/Ajit-maker413/Ajit768/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
