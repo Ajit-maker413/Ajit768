@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Ajit-maker413/Ajit768/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ajit-maker413/Ajit768/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1652-defuse-the-bomb](https://github.com/Ajit-maker413/Ajit768/tree/master/1652-defuse-the-bomb) |
+| [1748-sum-of-unique-elements](https://github.com/Ajit-maker413/Ajit768/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ajit-maker413/Ajit768/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1829-maximum-xor-for-each-query](https://github.com/Ajit-maker413/Ajit768/tree/master/1829-maximum-xor-for-each-query) |
 | [1929-concatenation-of-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1929-concatenation-of-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ajit-maker413/Ajit768/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/1512-number-of-good-pairs) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ajit-maker413/Ajit768/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/Ajit-maker413/Ajit768/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ajit-maker413/Ajit768/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/Ajit-maker413/Ajit768/tree/master/2405-optimal-partition-of-string) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Ajit-maker413/Ajit768/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ajit-maker413/Ajit768/tree/master/3541-find-most-frequent-vowel-and-consonant) |
