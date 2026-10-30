@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Ajit-maker413/Ajit768/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/Ajit-maker413/Ajit768/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/Ajit-maker413/Ajit768/tree/master/2485-find-the-pivot-integer) |
+| [2843-count-symmetric-integers](https://github.com/Ajit-maker413/Ajit768/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ajit-maker413/Ajit768/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ajit-maker413/Ajit768/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2427-number-of-common-factors](https://github.com/Ajit-maker413/Ajit768/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ajit-maker413/Ajit768/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2843-count-symmetric-integers](https://github.com/Ajit-maker413/Ajit768/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ajit-maker413/Ajit768/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/Ajit-maker413/Ajit768/tree/master/3886-sum-of-sortable-integers) |
