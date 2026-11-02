@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/1512-number-of-good-pairs) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Ajit-maker413/Ajit768/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ajit-maker413/Ajit768/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Ajit-maker413/Ajit768/tree/master/1837-sum-of-digits-in-base-k) |
 | [1927-sum-game](https://github.com/Ajit-maker413/Ajit768/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ajit-maker413/Ajit768/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/2063-vowels-of-all-substrings) |
