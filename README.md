@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Ajit-maker413/Ajit768/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Ajit-maker413/Ajit768/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Ajit-maker413/Ajit768/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ajit-maker413/Ajit768/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Ajit-maker413/Ajit768/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Ajit-maker413/Ajit768/tree/master/1310-xor-queries-of-a-subarray) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ajit-maker413/Ajit768/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ajit-maker413/Ajit768/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ajit-maker413/Ajit768/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Ajit-maker413/Ajit768/tree/master/1267-count-servers-that-communicate) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ajit-maker413/Ajit768/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Ajit-maker413/Ajit768/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Dynamic Programming
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Ajit-maker413/Ajit768/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/Ajit-maker413/Ajit768/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Ajit-maker413/Ajit768/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ajit-maker413/Ajit768/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0112-path-sum) |
 | [0965-univalued-binary-tree](https://github.com/Ajit-maker413/Ajit768/tree/master/0965-univalued-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Ajit-maker413/Ajit768/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ajit-maker413/Ajit768/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Ajit-maker413/Ajit768/tree/master/0112-path-sum) |
 | [0965-univalued-binary-tree](https://github.com/Ajit-maker413/Ajit768/tree/master/0965-univalued-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Ajit-maker413/Ajit768/tree/master/1267-count-servers-that-communicate) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -581,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ajit-maker413/Ajit768/tree/master/0292-nim-game) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Ajit-maker413/Ajit768/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
