@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ajit-maker413/Ajit768/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ajit-maker413/Ajit768/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ajit-maker413/Ajit768/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ajit-maker413/Ajit768/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ajit-maker413/Ajit768/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Ajit-maker413/Ajit768/tree/master/2485-find-the-pivot-integer) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ajit-maker413/Ajit768/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ajit-maker413/Ajit768/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Ajit-maker413/Ajit768/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ajit-maker413/Ajit768/tree/master/3904-smallest-stable-index-ii) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajit-maker413/Ajit768/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajit-maker413/Ajit768/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ajit-maker413/Ajit768/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ajit-maker413/Ajit768/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
 | ------- |
